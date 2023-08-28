@@ -94,7 +94,8 @@ public class Variable {
 		System.out.print("³ª¸ÓÁö(%) : ");
 		System.out.println(x % y);
 		
-		
+		//git
 	}
 
 }
+
