@@ -58,6 +58,42 @@ public class Variable {
 		name1 = "Hi Java";
 		System.out.println("name1(재사용) = " + name1);
 		
+		System.out.println("");
+		System.out.println("------------------");
+		System.out.println("");
+		
+		int a = 10;
+		int b = 20;
+		System.out.println(a + b);
+		System.out.println(a - b);
+		System.out.println(a * b);
+		System.out.println(b / a);
+		System.out.println(b % a);
+		
+		System.out.println("");
+		System.out.println("------------------");
+		System.out.println("");
+		
+		//변수명 안에 숫자를 넣고 더하기 뺴기 곱하기 나누기 넣기
+		
+		int x = 4;
+		int y = 2;
+		//1. 더하기 (+)
+		System.out.print("더하기(+) : ");
+		System.out.println(x + y);
+		//2. 빼기 (-)
+		System.out.print("뺴기(-) : ");
+		System.out.println(y - x);
+		//3. 곱하기 (*)
+		System.out.print("곱하기(*) : ");
+		System.out.println(x * y);
+		//4. 나누기 (/)
+		System.out.print("나누기(/) : ");
+		System.out.println(x / y);
+		//5. 나머지 구하기 (%)
+		System.out.print("나머지(%) : ");
+		System.out.println(x % y);
+		
 		
 	}
 
