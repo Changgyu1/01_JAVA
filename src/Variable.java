@@ -84,7 +84,7 @@ public class Variable {
 		//2. 빼기 (-)
 		System.out.print("뺴기(-) : ");
 		System.out.println(y - x);
-		//3. 곱하기 (*)
+		//3. 곱하기 (*
 		System.out.print("곱하기(*) : ");
 		System.out.println(x * y);
 		//4. 나누기 (/)
@@ -94,8 +94,13 @@ public class Variable {
 		System.out.print("나머지(%) : ");
 		System.out.println(x % y);
 		
-		//git
+		
 	}
 
 }
+// cd eclipse-workspace
+// cd 00_testproject
+// git add .
+// git commit -m "이름"
+// git push
 
